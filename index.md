@@ -5,7 +5,11 @@
 
 ## Быстрые ссылки (исследования)
 - Character.AI аналоги — обзор платформ: Perchance, SpicyChat, Janitor AI, URV AI, CrushOn, Chatopia (log.md за 2026-10-24)
-- Summertime Saga аналоги — игры: Being a DIK, Koi Days, Persona 4/5, Summer Pockets, Milfy City и др. (log.md за 2026-10-24)
+| - Summertime Saga аналоги — игры: Being a DIK, Koi Days, Persona 4/5, Summer Pockets, Milfy City и др. (log.md за 2026-10-24)
+|
+|## Быстрые ссылки (исследования) — 2026-10-25
+|- Топ-10 VPN бесплатных и бюджетных — сравнение, характеристики, отзывы из WIRED, PCMag, CNET, Engadget, heise (log.md за 2026-10-25)
+|- Происхождение фразы «Добрый Сосед Человек-Паук» — от рекламы 1930-х до комиксов и мема (log.md за 2026-10-25)
 
 ## Правила работы vault
 - Новые заметки: создать → показать → согласование → записать → commit.

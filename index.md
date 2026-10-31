@@ -13,8 +13,11 @@
 ||- Каникулы Воронеж 2026-2027 — даты осенних, зимних, весенних, летних каникул для 8 класса (log.md за 2026-10-25)
 
 ## Быстрые ссылки (исследования) — 2026-10-29
-- Топ-10 VR-очков до 10 000 ₽ — сравнение phone VR (Shinecon, GOKOTTA, Right Store) и standalone VR (Quest 2/3S, Pico 4) (log.md за 2026-10-29)
-- SteamVR-совместимость standalone-шлемов — Quest Link, Air Link, Virtual Desktop, Pico Streaming Assistant (log.md за 2026-10-29)
+|- Топ-10 VR-очков до 10 000 ₽ — сравнение phone VR (Shinecon, GOKOTTA, Right Store) и standalone VR (Quest 2/3S, Pico 4) (log.md за 2026-10-29)
+|- SteamVR-совместимость standalone-шлемов — Quest Link, Air Link, Virtual Desktop, Pico Streaming Assistant (log.md за 2026-10-29)
+|
+|## Быстрые ссылки (исследования) — 2026-11-01
+|- Сборка ПК 10-20 тыс ₽ Воронеж — готовые варианты (i7-3770+GTX1060, i3-9100F+GTX1060+16GB DDR4), апгрейд до GTX 1070, системные требования Poppy Playtime Ch3-4 (log.md за 2026-11-01)
 
 ## Правила работы vault
 - Новые заметки: создать → показать → согласование → записать → commit.
